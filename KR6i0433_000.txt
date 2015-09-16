@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說慢法經
+#+DATE: 2015-08-30 20:19:30.784330
+#+PROPERTY: JUAN 0
