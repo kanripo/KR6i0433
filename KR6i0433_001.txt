@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:30.608870
+#+DATE: 2015-08-30 20:19:31.906766
 #+TITLE: 佛說慢法經
 #+PROPERTY: CBETA_ID T17n0739
 #+PROPERTY: ID KR6i0433
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 739
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0433_T_000-0542c>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0433_T_001-0542c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.739¶
-
- 《佛說慢法經》¶
+No. 739¶
+《佛說慢法經》¶
 ¶
 西晉沙門法炬譯¶
 
@@ -59,6 +58,5 @@ No.739¶
 經戒。心專行惡，眾態具足，身自招之，無有¶
 與者。」
 
-阿難聞之，便頭面著地，為佛作禮，歡¶
-喜奉行。¶
+阿難聞之，便頭面著地，為佛作禮，歡喜奉行。¶
 《佛說慢法經》
